@@ -1,0 +1,16 @@
+C:\Users\user9d\source\repos\Wpf_Markups\obj\Debug\Wpf_Markups.csproj.AssemblyReference.cache
+C:\Users\user9d\source\repos\Wpf_Markups\obj\Debug\App.g.cs
+C:\Users\user9d\source\repos\Wpf_Markups\obj\Debug\Wpf_Markups_MarkupCompile.cache
+C:\Users\user9d\source\repos\Wpf_Markups\bin\Debug\Wpf_Markups.exe.config
+C:\Users\user9d\source\repos\Wpf_Markups\bin\Debug\Wpf_Markups.exe
+C:\Users\user9d\source\repos\Wpf_Markups\bin\Debug\Wpf_Markups.pdb
+C:\Users\user9d\source\repos\Wpf_Markups\obj\Debug\MainWindow.g.cs
+C:\Users\user9d\source\repos\Wpf_Markups\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user9d\source\repos\Wpf_Markups\obj\Debug\Wpf_Markups_MarkupCompile.lref
+C:\Users\user9d\source\repos\Wpf_Markups\obj\Debug\MainWindow.baml
+C:\Users\user9d\source\repos\Wpf_Markups\obj\Debug\Wpf_Markups.g.resources
+C:\Users\user9d\source\repos\Wpf_Markups\obj\Debug\Wpf_Markups.Properties.Resources.resources
+C:\Users\user9d\source\repos\Wpf_Markups\obj\Debug\Wpf_Markups.csproj.GenerateResource.cache
+C:\Users\user9d\source\repos\Wpf_Markups\obj\Debug\Wpf_Markups.csproj.CoreCompileInputs.cache
+C:\Users\user9d\source\repos\Wpf_Markups\obj\Debug\Wpf_Markups.exe
+C:\Users\user9d\source\repos\Wpf_Markups\obj\Debug\Wpf_Markups.pdb
